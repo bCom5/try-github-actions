@@ -1,0 +1,19 @@
+{
+  "name": "try-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ecosystem.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bCom5/try-github-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bCom5/try-github-actions/issues"
+  },
+  "homepage": "https://github.com/bCom5/try-github-actions#readme"
+}
